@@ -3,7 +3,7 @@
 ![kanji_header](doc/kanji_header.png)
 
 ## Usage
-Before using kanjivg-radical, import each json files as dictionaries as following code.
+Before using kanjivg-radical, import each json files into dictionaries as following code.
 
 
 ```py
